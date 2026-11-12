@@ -37,6 +37,4 @@ Hold one hand up with index finger and little finger raised, middle and ring fin
 - If the webcam does not open, change `CAMERA_INDEX = 0` near the top of `app.py` to `1`.
 - If you see an error that `mp.solutions.hands` does not exist, your installed MediaPipe package may have a different API. Python 3.11 is a practical fallback for this classic Hands API: install Python 3.11, then run `py -3.11 -m pip install mediapipe==0.10.21 opencv-python numpy` and start with `py -3.11 app.py`.
 - This is a visual effect drawn on the webcam image, not a physical web.
-## Demo Video
-
-[Watch My Spider-Man Web Shooting Project](./WhatsApp%20Video%202026-11-12%20at%204.56.10%20PM.mp4)
+[Download My Spider-Man Project Demo Video](./WhatsApp%20Video%202026-11-12%20at%204.56.10%20PM.mp4)
